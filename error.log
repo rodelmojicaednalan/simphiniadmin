@@ -1,0 +1,20 @@
+[Mon Aug 16 14:25:48.548034 2021] [ssl:warn] [pid 4669] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:25:48.577785 2021] [ssl:warn] [pid 4669] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:26:54.463939 2021] [ssl:warn] [pid 4792] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:26:54.494349 2021] [ssl:warn] [pid 4792] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:35:56.143393 2021] [ssl:warn] [pid 5166] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:35:56.174265 2021] [ssl:warn] [pid 5166] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:45:47.603969 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 16 14:45:47.634377 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 22 03:25:01.349833 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 23 18:13:21.644906 2021] [cgi:error] [pid 20875] [client 193.118.53.202:54518] AH02811: script not found or unable to stat: /var/www/cgi-bin/config.exp
+[Tue Aug 24 10:52:09.730644 2021] [ssl:error] [pid 20875] [client 34.227.142.56:56846] AH02042: rejecting client initiated renegotiation
+[Sun Aug 29 03:07:01.358300 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 04 06:52:41.278542 2021] [cgi:error] [pid 23033] [client 66.249.66.131:55620] AH02812: attempt to invoke directory as script: /var/www/cgi-bin/
+[Sun Sep 05 03:45:02.063401 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 07 06:08:53.657403 2021] [cgi:error] [pid 30904] [client 193.118.53.210:41694] AH02811: script not found or unable to stat: /var/www/cgi-bin/config.exp
+[Thu Sep 09 12:23:56.836390 2021] [autoindex:error] [pid 25978] [client 125.34.72.214:36674] AH01276: Cannot serve directory /var/www/simphini-admin/dist/js/: No matching DirectoryIndex (index.html,index.php,index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 09 12:24:00.327217 2021] [autoindex:error] [pid 25978] [client 125.34.72.214:36674] AH01276: Cannot serve directory /var/www/simphini-admin/dist/css/: No matching DirectoryIndex (index.html,index.php,index.php) found, and server-generated directory index forbidden by Options directive
+[Fri Sep 10 09:09:15.632828 2021] [ssl:error] [pid 25978] [client 54.161.17.234:60570] AH02042: rejecting client initiated renegotiation
+[Sun Sep 12 03:15:01.698536 2021] [ssl:warn] [pid 5425] AH01909: www.admin.simphini.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 16 21:22:27.164367 2021] [cgi:error] [pid 32285] [client 66.249.64.10:42323] AH02812: attempt to invoke directory as script: /var/www/cgi-bin/

@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px){
+  .daterangepicker.show-ranges.show-weeknumbers, .daterangepicker.show-ranges {
+    min-width: 720px !important;
+  }
+}

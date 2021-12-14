@@ -1,0 +1,60 @@
+
+    /* .side-locker {
+        height: 100%; 
+        width: 350px; 
+        position: fixed; 
+        top: 0; 
+        right: 0; 
+        z-index: 1000;
+        box-shadow: -5px 0px 5px 0px #aaaaaa;
+    } */
+    #sideFormModal .modal-dialog {
+		position: fixed;
+        background: #ff0000;
+		margin: auto;
+		width: 320px;
+		height: 100%;
+		-webkit-transform: translate3d(0%, 0, 0);
+        -ms-transform: translate3d(0%, 0, 0);
+		-o-transform: translate3d(0%, 0, 0);
+		transform: translate3d(0%, 0, 0);
+	}
+
+	#sideFormModal .modal-content {
+		height: 100%;
+		overflow-y: auto;
+	}
+
+    #sideFormModal .modal-header {
+        margin-top: -10px !important;
+        padding-bottom: 10px !important;
+    }
+	
+	#sideFormModal .modal-body {
+		padding: 15px 15px 80px;
+	}
+
+        
+/*Right*/
+	#sideFormModal.modal.fade .modal-dialog {
+		right: -320px;
+		-webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+        -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+        -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+        transition: opacity 0.3s linear, right 0.3s ease-out;
+	}
+	
+	#sideFormModal.modal.fade.show .modal-dialog {
+		right: 0;
+	}
+
+/* ----- MODAL STYLE ----- */
+	/* .modal-content {
+		border-radius: 0;
+		border: none;
+	}
+
+	.modal-header {
+		border-bottom-color: #EEEEEE;
+		background-color: #FAFAFA;
+	} */
